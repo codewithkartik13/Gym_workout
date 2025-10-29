@@ -1,0 +1,26 @@
+[
+    {
+        "type": "income",
+        "amount": 1340.0,
+        "category": "market",
+        "date": "2025-10-11"
+    },
+    {
+        "type": "expense",
+        "amount": 1320.0,
+        "category": "furniture",
+        "date": "2025-10-11"
+    },
+    {
+        "type": "income",
+        "amount": 3450.0,
+        "category": "salary",
+        "date": "2025-10-01"
+    },
+    {
+        "type": "expense",
+        "amount": 349.0,
+        "category": "recharge ",
+        "date": "2025-10-08"
+    }
+]
